@@ -2640,3 +2640,4 @@ anzu.io, 6964e7ce077d91d418080182, RESELLER
 rubiconproject.com, 17476, RESELLER, 0bfd66d529a55807
 Media.net, 8CU47MDK1, RESELLER
 Revealon.media, 18063, RESELLER
+theappspark.com, pub_10515, DIRECT
